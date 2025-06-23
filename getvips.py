@@ -5,6 +5,7 @@ multiplication = number1 * number2
 
 print(multiplication)
 
+input("\nPress Enter to exit...")
 
 
                 
